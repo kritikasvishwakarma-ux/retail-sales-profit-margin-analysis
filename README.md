@@ -131,6 +131,27 @@ This suggests that the margin problem is more closely related to the **underlyin
 
 ---
 
+## 📈 Key Visualizations
+
+### 1. Profit Margin: S001 vs Other-Store Benchmark
+
+This comparison shows that S001 consistently operates with lower profit margins than the benchmark across the investigated products.
+
+![Profit Margin: S001 vs Other-Store Benchmark](images/profit_margin_s001_vs_benchmark.png)
+
+### 2. S001 Margin Gap vs Other-Store Benchmark
+
+This visualization highlights the products contributing to S001's margin disadvantage compared with other Bengaluru stores.
+
+![S001 Margin Gap vs Other-Store Benchmark](images/margin_gap_s001_vs_benchmark.png)
+
+### 3. Cost-to-Price Ratio: S001 vs Other-Store Benchmark
+
+The final comparison examines the underlying price and cost structure, providing evidence that the margin differences are associated with differences in the relationship between selling price and cost.
+
+![Cost-to-Price Ratio: S001 vs Other-Store Benchmark](images/cost_to_price_s001_vs_benchmark.png)
+
+
 ## 💡 Key Findings
 
 * Bengaluru Grocery showed comparatively lower profit margins.
